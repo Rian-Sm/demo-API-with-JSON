@@ -8,8 +8,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "TESte", "postId": 2 },
-     { "id": 1, "body": "API dot net", "postId": 3 },
-    { "id": 2, "body": "basico", "postId": 4 }
+     { "id": 3, "body": "API dot net", "postId": 3 },
+    { "id": 4, "body": "basico", "postId": 4 }
   ],
   "profile": {
     "name": "typicode"
